@@ -1,0 +1,7 @@
+Esta aplicación almancena la información proporcionada por los usuarios, la cual es utilizada para generar reportes al usuario de de la información que provee.
+
+También se utiliza la información de los contactos del usuario para facilitar encontrar a sus contactos dentro de la aplicación.
+
+Se utiliza también internet para sincronizar la información proporcionada por el usuario a la base de datos que almacena la información.
+
+La información proporcionada por el usuario se comparte con los demás contactos a los que el usuario desee compartir.
